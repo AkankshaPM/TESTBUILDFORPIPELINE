@@ -10,7 +10,7 @@ namespace TESTBUILDFORPIPELINE
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("WELCOME")
+            Console.WriteLine("WELCOME");
         }
     }
 }
